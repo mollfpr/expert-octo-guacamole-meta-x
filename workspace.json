@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "meta-x": "apps/meta-x",
+    "meta-x-e2e": "apps/meta-x-e2e"
+  }
+}
